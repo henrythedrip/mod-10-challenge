@@ -2,12 +2,5 @@
       .svg-text {
         font-size: 60px;
         font-family: monospace;
-        animation: j;
       }
-
-      @keyframes j {
-        100% {
-          transform: rotate(360deg);
-        }
-      }
-    </style><circle cx="150" cy="100" r="90" fill="black"/><text class="svg-text" x="131.935" y="125" fill="white">☻</text></svg>
+    </style><polygon points="150,10 50,190 250,190" style="fill:navy"/><text class="svg-text" x="95.80499999999999" y="170" fill="red">YES</text></svg>
