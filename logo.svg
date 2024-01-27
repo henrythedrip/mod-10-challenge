@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200"><style>
+      .svg-text {
+        font-size: 60px;
+        font-family: monospace;
+        animation: j;
+      }
+
+      @keyframes j {
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+    </style><circle cx="150" cy="100" r="90" fill="black"/><text class="svg-text" x="131.935" y="125" fill="white">☻</text></svg>
