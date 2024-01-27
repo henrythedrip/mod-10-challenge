@@ -7,9 +7,8 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+  - [Sources](#sources)
+  - [GitHub](#github)
 
 ## Description
 
@@ -28,14 +27,33 @@ This program is run in the command line using `node script.js`. Users are presen
 This project is licensed under the MIT license.
 Please refer to the license badge at the top of this document.
 
-## Contributing
+## Sources
 
-N/A
+Here are some of the sources that I used to write this code.
 
-## Tests
+[npmjs](https://www.npmjs.com/package/inquirer)
 
-N/A
+[w3 CSS colors](https://www.w3.org/wiki/CSS/Properties/color/keywords)
 
-## GitHub Username
+[w3 Hexidecimal Colors](https://www.w3schools.com/css/css_colors_hex.asp)
+
+[regex101](https://regex101.com/)
+
+[mdn Vector](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
+
+[mdn Vector 2](https://developer.mozilla.org/en-US/docs/Web/SVG)
+
+[w3 VSG text](https://www.w3schools.com/graphics/svg_text.asp)
+
+[w3 SVG Rectangle](https://www.w3schools.com/graphics/svg_rect.asp)
+
+[w3 SVG Triangle](https://www.w3schools.com/graphics/svg_polygon.asp)
+
+[w3 SVG Circle](https://www.w3schools.com/graphics/svg_circle.asp)
+
+[MDN SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+
+
+## GitHub
 
 [GitHub User: henrythedrip](https://github.com/henrythedrip/)
